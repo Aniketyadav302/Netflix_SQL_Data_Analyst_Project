@@ -38,7 +38,7 @@ CREATE TABLE netflix
     description  VARCHAR(550)
 );
 
-## Findings and Conclusion
+**## Findings and Conclusion**
 
 - **Content Distribution:** The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
 - **Common Ratings:** Insights into the most common ratings provide an understanding of the content's target audience.
